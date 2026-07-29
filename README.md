@@ -1,7 +1,7 @@
 # shopping-mall-cli
 
 Using Java in 2024  
-📌: KOSA 전자정부 표준 프레임워크 기반 공공프로젝트 개발 전문가 양성과정 - 콘솔 기반 쇼핑몰 시스템
+📌: KOSA 전자정부 표준 프레임워크 기반 공공프로젝트 개발 전문가 양성과정 - 콘솔 기반 쇼핑몰 프로그램
 
 [![Last Commit](https://img.shields.io/github/last-commit/FlounderAround/shopping-mall-cli)](https://github.com/FlounderAround/shopping-mall-cli/commits/main)
 
