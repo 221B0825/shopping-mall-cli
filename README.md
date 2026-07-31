@@ -3,7 +3,7 @@
 Using Java in 2024  
 📌: KOSA 전자정부 표준 프레임워크 기반 공공프로젝트 개발 전문가 양성과정 - 콘솔 기반 쇼핑몰 프로그램
 
-[![Last Commit](https://img.shields.io/github/last-commit/FlounderAround/shopping-mall-cli)](https://github.com/FlounderAround/shopping-mall-cli/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/221B0825/shopping-mall-cli)](https://github.com/221B0825/shopping-mall-cli/commits/main)
 
 ## 🚀 Introduction
 KOSA 과정 중 팀원과 함께 진행한 콘솔(CLI) 기반 쇼핑몰 시스템 팀 프로젝트입니다. 관리자(Admin)와 고객(Customer) 역할을 분리하여 회원가입/로그인, 카테고리 및 상품 관리, 주문 등록/수정/취소 등 쇼핑몰의 핵심 기능을 객체지향 설계로 구현했습니다. 브랜치 분리 및 병합, 코드 컨플릭트 해결까지 실제 협업 프로세스를 경험한 프로젝트입니다.
